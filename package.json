@@ -1,0 +1,12 @@
+{
+  "name": "cyberboosthub",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CyberBoostHub responsive digital growth and VPN storefront",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
